@@ -1,0 +1,24 @@
+FIRST STEP:
+-----------
+npm init -y
+
+
+SECOND STEP INSTALL PACKAGES:
+-----------------------------
+npm install --save-dev babel-core babel-preset-env
+npm install --save-dev webpack babel-loader
+npm install --save-dev webpack-cli -D
+
+
+THIRD STEP:
+-----------
+Make a '.babelrc' file with the following code.
+
+
+FOURTH STEP:
+------------
+
+
+FIFTH STEP:
+------------
+Update the 'package.json' file's 'scripts' item.
